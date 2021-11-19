@@ -8,6 +8,7 @@ $(document).ready(function() {
         }
     }, 2000);
 
+
     setTimeout(function() {
         for (i = 0; i < 100; i++) {
             let squarePurple = $('<div style="width: 100px; height: 100px; margin: 5px; background-color: purple;""></div>');
